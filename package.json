@@ -1,0 +1,31 @@
+{
+  "name": "sass-layout-portfolio",
+  "version": "1.0.0",
+  "description": "Gaining more experience with Sass by designing a product showcase site using Bootstrap 5.",
+  "keywords": [
+    "bootstrap",
+    "sass",
+    "html",
+    "css",
+    "js",
+    "node.js"
+  ],
+  "homepage": "https://github.com/dylanawhite92/sass-layout-portfolio#readme",
+  "bugs": {
+    "url": "https://github.com/dylanawhite92/sass-layout-portfolio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylanawhite92/sass-layout-portfolio.git"
+  },
+  "license": "ISC",
+  "author": "Dylan",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "sass": "^1.89.2"
+  }
+}
